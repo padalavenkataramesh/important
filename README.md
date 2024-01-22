@@ -14,9 +14,7 @@ Ubuntu
 > cloc src --by-file
 
 Result: 
- 190 text files.
-     190 unique files.                                          
-       1 file ignored.
+
        File                                                                         blank        comment           code
 ----------------------------------------------------------------------------------------------------------------------
 src/lang.ts                                                                          59             13             864
