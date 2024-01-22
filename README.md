@@ -4,7 +4,6 @@
 Remove UnUsed Assets/ Files using Deadfiles npm package
 **URL**: https://www.npmjs.com/package/deadfile
 **Package**: npm i deadfile
-
 deadfiles run the command to track prokect dead files **npx deadfile index.js --dir C:\project\src  --output report.json** 
 
 2) 
